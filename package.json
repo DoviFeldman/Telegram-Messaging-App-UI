@@ -1,1 +1,16 @@
-
+{
+  "name": "telegram-bot-proxy",
+  "version": "1.0.0",
+  "description": "Telegram Bot API Proxy for Vercel",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
