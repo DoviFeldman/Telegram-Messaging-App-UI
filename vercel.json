@@ -18,6 +18,7 @@
           "value": "Content-Type, Authorization"
         }
       ]
+      "outputDirectory": false
     }
   ]
 }
